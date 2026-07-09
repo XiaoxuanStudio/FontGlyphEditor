@@ -1,0 +1,6 @@
+{
+  "line_id": "line1",
+  "line_name": "线路一",
+  "require_auth": true,
+  "master_verify_url": "https://font-master.example.com/auth/verify"
+}
